@@ -105,7 +105,9 @@ body {
 ![ ](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
 ![ ](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white)
 ![ ](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![ ](https://img.shields.io/badge/javascript-gray?logo=javascript&logoColor=F7DF1E)
+![ ](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white)
+![ ](https://img.shields.io/badge/SASS-CC6699?logo=Sass&logoColor=white)
+
 \
 \
 <svg width='30' height='30' fill='#1572B6'  role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CSS3</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></svg>
